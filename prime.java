@@ -14,3 +14,4 @@ public class prime{
         }
     }
 }
+//this is end of program
