@@ -1,3 +1,4 @@
+//this is sample java code
 public class prime{
     public static void main(String[] args) {
         int n=8 ,c=0;
