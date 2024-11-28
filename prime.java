@@ -3,7 +3,7 @@ public class prime{
         int n=8 ,c=0;
         for(int i=2;i<(n/2);i++){
             if(n%i==0){
-                System.out.println(n+" It is not prime");
+                System.out.println(n+"Given n is not prime");
                 c=1;
                 break;
             }
