@@ -9,7 +9,7 @@ public class prime{
             }
         }
         if(c==0){
-            System.out.println("It is a prime");
+            System.out.println("Given num  is a prime");
         }
     }
 }
